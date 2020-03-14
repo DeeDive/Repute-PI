@@ -1,5 +1,10 @@
 # Repute-PI: An Unsupervised Framework for Online Reputation Monitor and Prediction with Review Information and Rating Dynamics
+We present a novel framework Repute-PI that leverages both review-based
+information and rating dynamics to form informative indicators that can help managers
+monitor their brand and product reputation. The proposed framework consists of three
+modules: rating module, prediction module, and insight module.
 
+## Framework
 ![Repute-PI Framework](images/reputepi.jpg)
 
 ## Run the model
