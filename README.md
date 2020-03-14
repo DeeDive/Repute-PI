@@ -3,10 +3,9 @@
 ![Repute-PI Framework](images/reputepi.jpg)
 
 ## Run the model
+To kick it off, change the phase to [1,2,3,4] in main.py, then
 
-​    # change the phase to [1,2,3,4] in main.py
-
-​    python main.py
+    python main.py
 
 ## Results
 
